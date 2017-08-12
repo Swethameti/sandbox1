@@ -1,5 +1,13 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :swethas
+=======
+
+  resources :sharans
+  resources :nisargas
+  resources :chetans
+  
+>>>>>>> a1943d577494b1b4043ea51834f98812963c9c2f
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
